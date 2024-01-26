@@ -9,10 +9,14 @@ h1{
     background-color: aquamarine;
     border-radius: 5px;
 }
+p{
+    background-color:goldenrod;
+}
 img{
     background-color: gold;
     width: 255px;
-    height: 150px;
+    height: 250px;
+    border-radius: 500px;
 }
 .fa{
     padding: 20px;
